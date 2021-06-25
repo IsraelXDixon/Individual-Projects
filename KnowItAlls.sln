@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnowItAlls", "KnowItAlls.csproj", "{8CCEAB68-2890-418B-9A9E-406DA64CB425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCEAB68-2890-418B-9A9E-406DA64CB425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCEAB68-2890-418B-9A9E-406DA64CB425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCEAB68-2890-418B-9A9E-406DA64CB425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCEAB68-2890-418B-9A9E-406DA64CB425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1956E0F1-8157-4677-B922-9A9F7016A793}
+	EndGlobalSection
+EndGlobal
